@@ -8,7 +8,7 @@ I have been a Minecraft modder since 2020. I have played Minecraft since 2012. I
 
 自2020年以来，我一直是一个《我的世界》模组开发者。自2012年以来，我一直在游玩《我的世界》。我也是致力于《我的世界》模组开发的神兔工作室（AmazingRabbit Studio）的创始人。
 
-I have had great interest in coumputer from my childhood. When I was 10, I was first introduced to programming.
+I have had great interest in coumputer from my childhood. When I was 10, I was first exposed to programming.
 
 从小时候起，我就一直对计算机有着浓厚的兴趣。我早在10岁就第一次接触了编程。
 
