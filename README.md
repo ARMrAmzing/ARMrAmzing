@@ -2,8 +2,6 @@
 
 ### 你好 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingRabbit-Studio&layout=compact&locale=cn&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARMrAmzing&layout=compact&locale=cn&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 I have been a Minecraft modder since 2020. I have played Minecraft since 2012. I am also the original creator a studio which is devoted to the development of Minecraft mods, AmazingRabbit Studio.
