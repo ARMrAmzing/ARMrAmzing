@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARMrAmzing&layout=compact&locale=cn&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+[![squid233's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARMrAmzing&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 I have been a Minecraft modder since 2020. I have played Minecraft since 2012. I am also the original creator a studio which is devoted to the development of Minecraft mods, AmazingRabbit Studio.
 
 自2020年以来，我一直是一个《我的世界》模组开发者。自2012年以来，我一直在游玩《我的世界》。我也是致力于《我的世界》模组开发的神兔工作室（AmazingRabbit Studio）的创始人。
