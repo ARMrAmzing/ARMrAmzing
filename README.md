@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARMrAmzing&layout=compact&locale=cn&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![squid233's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARMrAmzing&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![ARMrAmzing's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARMrAmzing&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 I have been a Minecraft modder since 2020. I have played Minecraft since 2012. I am also the original creator a studio which is devoted to the development of Minecraft mods, AmazingRabbit Studio.
 
@@ -18,6 +18,6 @@ I have a BIG DREAM to found my own company of video games.
 
 我有一个创立游戏公司的伟大梦想。
 
-Please try:  [EasyToInstall](https://github.com/AmazingRabbit/EasyToInstall) & [AIER](https://github.com/AmazingRabbit/Anti-internal-Energy_Revolution)
+Please try: [EasyToInstall](https://github.com/AmazingRabbit/EasyToInstall) & [AIER](https://github.com/AmazingRabbit/Anti-internal-Energy_Revolution)
 
 敬请访问：[EasyToInstall](https://github.com/AmazingRabbit/EasyToInstall) & [AIER](https://github.com/AmazingRabbit/Anti-internal-Energy_Revolution)
