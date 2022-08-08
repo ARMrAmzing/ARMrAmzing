@@ -18,6 +18,6 @@ I have a BIG DREAM to found my own company of video games.
 
 我有一个创立游戏公司的伟大梦想。
 
-Please try: https://github.com/AmazingRabbit/EasyToInstall & https://github.com/AmazingRabbit/Anti-internal-Energy_Revolution
+Please try: [EasyToInstall](https://github.com/AmazingRabbit/EasyToInstall) & [AIER](https://github.com/AmazingRabbit/Anti-internal-Energy_Revolution)
 
-敬请访问：https://github.com/AmazingRabbit/EasyToInstall & https://github.com/AmazingRabbit/Anti-internal-Energy_Revolution
+敬请访问：[EasyToInstall](https://github.com/AmazingRabbit/EasyToInstall) & [AIER](https://github.com/AmazingRabbit/Anti-internal-Energy_Revolution)
